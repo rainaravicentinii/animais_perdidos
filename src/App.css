@@ -1,0 +1,64 @@
+body{
+  background-image: url('./components/images/MicrosoftTeams-image.png');
+  width: 1600px;
+
+
+ 
+}
+.app{
+
+  margin: 250px;
+  width: 1000px;
+  margin: 15 auto;
+  text-align: center;
+  margin-top: -200px;
+  background-color: rgba(158, 113, 77, 0.788);
+  border-radius: 16px;
+ 
+}
+form{
+margin: 250px;
+  width: 1000px;
+  margin: 15 auto;
+  text-align: center;
+  margin-top: -200px;
+  border-radius: 16px;
+  color: #000000;
+  font-family: arial;
+  background-color: rgba(158, 113, 77, 0.788);
+}
+input,
+select,
+button {
+margin-bottom: 10px;
+text-align: center;
+border-radius: 5px;
+
+
+}
+
+ul {
+list-style: none;
+padding: 0;
+text-align: center;
+
+
+}
+
+li {
+border: 1px solid #000000;
+padding: 50px;
+text-align: center;
+
+
+}
+
+button {
+margin-left: 50px;
+text-align: center;
+
+}
+input{
+background-color:antiquewhite;
+color: #000000;
+}
